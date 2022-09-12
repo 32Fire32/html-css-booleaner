@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header {
+    background-color: #4EA0FF;
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    background-position-x: right;
+}
+
+.booleaner {
+    height: 80px;
+    margin-top: 80px ;
+}2
